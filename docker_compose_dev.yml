@@ -1,0 +1,10 @@
+version: "3.1"
+
+services:
+
+  api_IA:
+    build:
+        context: .
+        dockerfile: dockerfile
+    ports:
+      - "5001:5001"
