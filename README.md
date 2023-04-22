@@ -25,3 +25,9 @@ python3 main.py
 Return the prediction of the bus Nombus in the direction Sens.
 
 see [example](testRequette.py)
+
+## Model creation
+For the creation of the model we used the data collected for another project. You can see the model creation process on the following [github](https://github.com/lumi-git/ProjetDataEngineering).
+```
+https://github.com/lumi-git/ProjetDataEngineering
+```
