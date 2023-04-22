@@ -31,3 +31,18 @@ For the creation of the model we used the data collected for another project. Yo
 ```
 https://github.com/lumi-git/ProjetDataEngineering
 ```
+### Model
+```
+Input:
+Number of buses on the line
+Average delay of buses (s)
+Length of the line (m)
+Average distance between buses on a line (m)
+
+Output:
+Low level (%)
+Medium level (%)
+High level (%)
+
+NB : Low level + Medium level + High level = 100%
+```
